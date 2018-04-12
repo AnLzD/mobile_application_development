@@ -4,3 +4,6 @@
 [submodule "Ex1_2"]
 	path = Ex1_2
 	url = https://github.com/AnLzD/Ex1_2
+[submodule "Ex2"]
+	path = Ex2
+	url = https://github.com/AnLzD/Ex2
